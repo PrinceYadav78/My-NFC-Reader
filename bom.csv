@@ -1,0 +1,40 @@
+Item,Description,Quantity,Product link,Price w/ Tax ($),Running Total
+Antenna,Antenna loop (Coilcraft MA5532-AE footprint),1,https://jlcpcb.com/,$0.80,$0.80
+Buzzer,15×7.5 mm buzzer (THT),1,https://jlcpcb.com/partdetail/Jiangsu_HuanengElec-HND2319/C2878,$1.20,$2.00
+Capacitor,0.1uF 0402,4,https://jlcpcb.com/partdetail/SamsungElectro-CL05B104KO5NNNC/C1525,$0.40,$2.40
+Capacitor,47uF (closest available),1,https://jlcpcb.com/partdetail/DMBJ-RVT2A47M0607/C970653,$0.50,$2.90
+Capacitor,1uF 0402,3,https://jlcpcb.com/partdetail/SamsungElectro-CL05A105KA5NQNC/C52923,$0.12,$3.02
+Capacitor,4.7uF 0402,1,https://jlcpcb.com/partdetail/SamsungElectro-CL05A475MP5NRNC/C2835559,$0.20,$3.22
+Capacitor,220pF 0402,1,https://jlcpcb.com/partdetail/YAGEO-CC0402KRX7R9BB221/C39122,$0.08,$3.30
+Capacitor,100pF C0G 0402,1,https://jlcpcb.com/partdetail/YAGEO-CC0402JRNPO9BN101/C1546,$0.08,$3.38
+Capacitor,10uF 0402,1,https://jlcpcb.com/partdetail/SamsungElectro-CL05A106MQ5NUNC/C15525,$0.36,$3.74
+Capacitor,100nF 0402,1,https://jlcpcb.com/partdetail/SamsungElectro-CL05B104KO5NNNC/C1525,$0.10,$3.84
+Capacitor,15pF NP0 0402,2,https://jlcpcb.com/partdetail/YAGEO-CC0402JRNPO9BN150/C1547,$0.16,$4.00
+Diode,Schottky 0402,1,https://jlcpcb.com/partdetail/onsemi-NSR05F40NXT5G/C146713,$0.12,$4.12
+Diode,Signal diode 0402 (closest),1,https://jlcpcb.com/partdetail/MicrodiodeElectronics-1N4148WS/C81598,$0.10,$4.22
+LED,WS2812B 5050,1,https://jlcpcb.com/partdetail/Worldsemi-WS2812B_BT/C2761795,$0.30,$4.52
+TVS diode,SMA 3.3V ESD/Surge,1,https://jlcpcb.com/partdetail/TECHPUBLIC-TVS3V3L4U/C28642315,$0.20,$4.72
+Ferrite bead,0402,1,https://jlcpcb.com/partdetail/Sunlord-SDCL1005C4N7STDF/C13595,$0.20,$4.92
+USB receptacle,USB‑C 16P (USB2.0),1,https://jlcpcb.com/partdetail/Korean_HropartsElec-TYPE_C_31_M12/C165948,$1.50,$6.42
+Header,1×2 pin header 1.00 mm,1,https://jlcpcb.com/partdetail/hanxia-HX_PZ1_27_1x2P_TPYQ/C41375972,$0.05,$6.47
+Header,1×8 pin header 1.00 mm,1,https://jlcpcb.com/partdetail/Kinghelm-KH_1_27PH180_1X8P_L72/C2938403,$0.20,$6.67
+Relay,Finder 34.51 SPDT (THT),1,https://jlcpcb.com/partdetail/Finder-34_51_7_0120010/C5512438,$2.50,$9.17
+Inductor,4.7uH (closest SMD),1,https://jlcpcb.com/partdetail/CENKER-CKST0402_4_7uHM/C3002596,$0.20,$9.37
+Transistor,PMOS SOT‑23 (closest),1,https://jlcpcb.com/partdetail/JiangsuChangjingElec-SSM3J332R/C8548,$0.15,$9.52
+Transistor,NMOS SOT‑23 (2N7002),1,https://jlcpcb.com/partdetail/JiangsuChangjingElec-2N7002/C8545,$0.15,$9.67
+Resistor,5.1k 0402,2,https://jlcpcb.com/partdetail/UNIROYAL-0402WGF5101TCE/C25905,$0.04,$9.71
+Resistor,10k 0402,5,https://jlcpcb.com/partdetail/UNIROYAL-0402WGF1002TCE/C25804,$0.55,$10.26
+Resistor,100k 0402,3,https://jlcpcb.com/partdetail/UNIROYAL-0402WGF1003TCE/C269673,$0.36,$10.62
+Resistor,56k 0402,1,https://jlcpcb.com/partdetail/UNIROYAL-0402WGF5602TCE/C25796,$0.12,$10.74
+Resistor,1.8k 0402,1,https://jlcpcb.com/partdetail/UNIROYAL-0105WHF1801TDE/C560335,$0.10,$10.84
+Resistor,330 0402,1,https://jlcpcb.com/partdetail/UNIROYAL-0105WHF3300TDE/C560354,$0.07,$10.91
+Resistor,220 0402,1,https://jlcpcb.com/partdetail/UNIROYAL-0105WHF2200TDE/C560342,$0.07,$10.98
+Switch,Tactile button (PTS636‑style),1,https://jlcpcb.com/partdetail/XKBConnectivity-TS_1187A_B_A_B/C318884,$0.24,$11.22
+Switch,Tactile button (PTS636‑style),1,https://jlcpcb.com/partdetail/XKBConnectivity-TS_1187A_B_A_B/C318884,$0.24,$11.46
+Switch,Tactile button (PTS636‑style),1,https://jlcpcb.com/partdetail/XKBConnectivity-TS_1187A_B_A_B/C318884,$0.24,$11.70
+Module,ESP32‑S3‑WROOM‑1,1,https://jlcpcb.com/partdetail/Espressif-ESP32_S3_WROOM_1/C2913198,$4.50,$16.20
+IC,Buck AP63203WU,1,https://jlcpcb.com/partdetail/DiodesInc-AP63203WU7/C780769,$0.60,$16.80
+IC,NFC PN5321A3HN,1,https://jlcpcb.com/partdetail/NXP-PN5321A3HN_C10655/C28925,$3.00,$19.80
+Crystal,27.12 MHz (SMD alt.),1,https://jlcpcb.com/partdetail/NDK-NX2016SA_27_12MHZ/C3008209,$0.20,$20.00
+esp32-nfc-reader PCBA,PCBA board assembly,1,N/A (https://cart.jlcpcb.com/),$43.94,$63.94
+Shipping,Import Duty,,I stay in india and india has 80% import duty on jlpcb products,Total,115.092
