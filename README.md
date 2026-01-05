@@ -18,3 +18,7 @@ Plug in a USB cable into the receptacle. Install the ESP32IDE for configuration 
 # BOM
 <img width="445" height="840" alt="Screenshot 2025-11-30 204234" src="Renders/bom.png" />
 <img width="445" height="840" alt="Screenshot 2025-11-30 204234" src="Renders/bom1.png" />
+
+## Cart
+<img width="991" height="541" alt="Screenshot 2026-01-05 065027" src="https://github.com/user-attachments/assets/024cdf06-3845-47c6-8f63-3ffe34e01383" />
+<img width="972" height="533" alt="Screenshot 2026-01-05 065034" src="https://github.com/user-attachments/assets/4b44d47f-d6c7-4e89-9244-7ee31301b370" />
